@@ -1,4 +1,4 @@
 test_git
 ========
 
-Un  test de git
+Un test de git pas trop mal.
