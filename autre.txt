@@ -2,4 +2,4 @@ Ceci est un autre fichier.
 
 Modification depuis GitHub
 
-Je modifie maintenant en local
+Je modifie maintenant en local et c'est cool
